@@ -1,4 +1,4 @@
-*PROJECT EXCEUTION :
+*PROJECT EXECUTION:
 
 1.Run the server using cmd:
 	python manage.py runserver
