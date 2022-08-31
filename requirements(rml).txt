@@ -1,0 +1,28 @@
+*PROJECT EXCEUTION :
+
+1.Run the server using cmd:
+	python manage.py runserver
+2.Testing the API:
+	a) http://127.0.0.1:8000/insert
+	{
+	"item":"bag",
+	"status":"pending"
+	}
+
+	b)http://127.0.0.1:8000/delay/
+	delay_time=3
+
+*POSTMAN COLLECTION:
+JSON link:https://www.getpostman.com/collections/1c5cd557e1b8f8542cc1
+
+
+*3rd PARTY LIBRARIES:
+django
+django-rest-framework
+marshmallow
+django-rest-marshamllow
+requests
+urllib
+
+
+
